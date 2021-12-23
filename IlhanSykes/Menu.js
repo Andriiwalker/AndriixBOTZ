@@ -6,7 +6,7 @@ const menu = (hansykes, SykesWM, Name, CreatorSykes, VersiSykes, hanselamat, ilh
 │❏️ _${thisDay}, ${day} ${myMonths[bulan]} ${year}_
 ╰─️─️─️─️ *D O N T - S P A M !* ─️─️─️️─️
 
-*◪*「 𝙎𝙔𝙆𝙀𝙎 𝙈𝙀𝙉𝙐 」
+*◪*「 𝙈𝙀𝙉𝙐 A N D R I I BOT」
 │❏️ _${hansykes}jadibot_
 │❏️ _${hansykes}listbot_
 │❏️ _${hansykes}catalog_
