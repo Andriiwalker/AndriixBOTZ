@@ -1,10 +1,10 @@
 const smenu = (prefix, hansykes) => {
 return `*◪*「 𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘿𝙄𝘼 」
-│❏️ _Youtube : https://youtube.com/c/HannSykes_
-│❏️ _Instagram : https://instagram.com/muhmdilhan__
-│❏️ _Website : https://ilhansykes.herokuapp.com_
+│❏️ _Facebook : https://facebook.com/c/andriistreetmoon_
+│❏️ _Instagram : https://instagram.com/crosslife89__
+│❏️ _Website : https://github.com/Andriiwalker_
 
-────「 𝙎𝙔𝙆𝙀𝙎 𝙈𝙀𝙉𝙐 」────
+────「 𝙈𝙀𝙉𝙐 A N D R I I BOT 」────
 │❏️ _${hansykes}jadibot_
 │❏️ _${hansykes}listbot_
 │❏️ _${hansykes}catalog_
