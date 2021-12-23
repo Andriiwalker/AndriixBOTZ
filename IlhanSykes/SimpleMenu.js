@@ -1,6 +1,6 @@
 const smenu = (prefix, hansykes) => {
 return `*◪*「 𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘿𝙄𝘼 」
-│❏️ _Facebook : https://facebook.com/c/andriistreetmoon_
+│❏️ _Facebook : https://facebook.com/andriistreetmoon_
 │❏️ _Instagram : https://instagram.com/crosslife89__
 │❏️ _Website : https://github.com/Andriiwalker_
 
