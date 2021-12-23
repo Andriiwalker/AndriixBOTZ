@@ -48,9 +48,9 @@ const sewabot = (prefix, NameBot) => {
 │
 │
 │◪ PAYMENT
-├ Pulsa = Isi Nomor mu
-├ OvO = Isi Nomor OvO mu
-├ Gopay = Isi Nomor Gopay mu
+├ Pulsa = 083822759168
+├ OvO = 083822759168
+├ Gopay = 083822759168
 │
 ╰───「 *${NameBot}* 」`
 }
