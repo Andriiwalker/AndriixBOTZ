@@ -1,0 +1,15 @@
+{
+    "wait": "[ WAIT ] Sedang Di Proses, Mohon Tunggu sebentar.",
+    "error": {
+        "Iv": "Link yang kamu berikan tidak valid",
+        "api": "[ ! ] Maaf terjadi kesalahan"
+    },
+    "Badbot": "「 *ATTENTION* 」\nUntuk menggunakan fitur jadi bot hanya bisa digunakan oleh owner! Silahkan chat owner untuk meminta jadi bot.",
+    "OnlyGrup": "[ ! ] Perintah ini hanya bisa digunakan dalam group",
+    "owner": "「 *OWNER ONLY* 」\nMaaf Kak, Fitur Ini khusus Owner Bot!",
+    "GrupAdmin": "[ ! ] Perintah ini hanya bisa digunakan oleh Admin Group!",
+    "BotAdmin": "[ ! ] Perintah ini hanya bisa di gunakan ketika bot menjadi admin!",
+    "ban": "[ ! ] Maaf nomor kamu ke *BANNED!*\nSilahkan hubungi owner agar membuka banned anda.",
+    "CallBlock": "_Dilarang melakukan panggilan telepon kepada bot, Nomor kamu otomatis akan di block._ _Untuk membuka block silahkan chat owner untuk meminta untuk membuka block anda!_",
+    "JoinGroup": "Halo! Terima Kasih sudah Mengundangku, Jika ingin Menggunakan Bot Ketik /menu"
+}
