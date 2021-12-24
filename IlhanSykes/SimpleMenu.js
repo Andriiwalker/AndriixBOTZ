@@ -4,7 +4,7 @@ return `*◪*「 𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘿𝙄𝘼 」
 │❏️ _Instagram : https://instagram.com/crosslife89__
 │❏️ _Website : https://github.com/Andriiwalker_
 
-────「 𝙈𝙀𝙉𝙐 A N D R I I BOT 」────
+────「 𝙈𝙀𝙉𝙐 」────
 │❏️ _${hansykes}jadibot_
 │❏️ _${hansykes}listbot_
 │❏️ _${hansykes}catalog_
